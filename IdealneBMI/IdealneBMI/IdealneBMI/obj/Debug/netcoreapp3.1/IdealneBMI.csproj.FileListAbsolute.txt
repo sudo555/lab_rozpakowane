@@ -1,0 +1,15 @@
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\bin\Debug\netcoreapp3.1\IdealneBMI.exe
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\bin\Debug\netcoreapp3.1\IdealneBMI.deps.json
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\bin\Debug\netcoreapp3.1\IdealneBMI.runtimeconfig.json
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\bin\Debug\netcoreapp3.1\IdealneBMI.runtimeconfig.dev.json
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\bin\Debug\netcoreapp3.1\IdealneBMI.dll
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\bin\Debug\netcoreapp3.1\IdealneBMI.pdb
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\obj\Debug\netcoreapp3.1\IdealneBMI.csprojAssemblyReference.cache
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\obj\Debug\netcoreapp3.1\IdealneBMI.Form1.resources
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\obj\Debug\netcoreapp3.1\IdealneBMI.csproj.GenerateResource.cache
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\obj\Debug\netcoreapp3.1\IdealneBMI.AssemblyInfoInputs.cache
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\obj\Debug\netcoreapp3.1\IdealneBMI.AssemblyInfo.cs
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\obj\Debug\netcoreapp3.1\IdealneBMI.csproj.CoreCompileInputs.cache
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\obj\Debug\netcoreapp3.1\IdealneBMI.dll
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\obj\Debug\netcoreapp3.1\IdealneBMI.pdb
+E:\Nowy folder\Visual Studio - programy\IdealneBMI\IdealneBMI\obj\Debug\netcoreapp3.1\IdealneBMI.genruntimeconfig.cache
