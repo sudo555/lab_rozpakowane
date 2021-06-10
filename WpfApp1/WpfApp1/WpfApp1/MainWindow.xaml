@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="293*"/>
+            <ColumnDefinition Width="107*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Podaj a" HorizontalAlignment="Left" Margin="150,127,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Podaj b" HorizontalAlignment="Left" Margin="150,0,0,0" VerticalAlignment="Center" FontSize="18"/>
+        <Button x:Name="iloraz" Content="Iloraz" HorizontalAlignment="Left" Margin="29,312,0,0" VerticalAlignment="Top" Width="106" Grid.Column="1" Click="iloraz_Click"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="293,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" Height="30"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Margin="293,204,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" Height="30"/>
+        <Label x:Name="result" Content="wynik" HorizontalAlignment="Left" Margin="54,381,0,0" VerticalAlignment="Top" Height="35" Width="358" FontSize="16"/>
+        <Button x:Name="suma" Content="Suma" HorizontalAlignment="Left" Margin="96,312,0,0" VerticalAlignment="Top" Width="94" Click="suma_Click"/>
+        <Button x:Name="roznica" Content="Roznica" HorizontalAlignment="Left" Margin="277,312,0,0" VerticalAlignment="Top" Width="107" Click="roznica_Click"/>
+        <Button x:Name="iloczyn" Content="Iloczyn" HorizontalAlignment="Left" Margin="450,312,0,0" VerticalAlignment="Top" Width="100" Click="iloczyn_Click" RenderTransformOrigin="0.498,0.576"/>
+
+    </Grid>
+</Window>

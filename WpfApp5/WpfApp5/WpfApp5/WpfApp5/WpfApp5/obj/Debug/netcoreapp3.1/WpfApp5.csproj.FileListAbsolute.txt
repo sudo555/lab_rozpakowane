@@ -1,0 +1,67 @@
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.exe
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.deps.json
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.runtimeconfig.json
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.runtimeconfig.dev.json
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.dll
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.pdb
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.csprojAssemblyReference.cache
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5_MarkupCompile.cache
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5_MarkupCompile.lref
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.g.resources
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.AssemblyInfo.cs
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.dll
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.pdb
+C:\Users\Artur\source\repos\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.genruntimeconfig.cache
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.exe
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.deps.json
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.runtimeconfig.json
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.runtimeconfig.dev.json
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.dll
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.pdb
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.csprojAssemblyReference.cache
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\Window1.g.cs
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5_MarkupCompile.cache
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5_MarkupCompile.lref
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\Window1.baml
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.g.resources
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.AssemblyInfoInputs.cache
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.AssemblyInfo.cs
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.csproj.CoreCompileInputs.cache
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.dll
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.pdb
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.genruntimeconfig.cache
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\Window2.g.cs
+E:\Nowy folder\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\Window2.baml
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.exe
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.deps.json
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.runtimeconfig.json
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.runtimeconfig.dev.json
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.dll
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\bin\Debug\netcoreapp3.1\WpfApp5.pdb
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.csprojAssemblyReference.cache
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\Window2.g.cs
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5_MarkupCompile.cache
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5_MarkupCompile.lref
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\Window2.baml
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.g.resources
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.AssemblyInfoInputs.cache
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.AssemblyInfo.cs
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.dll
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.pdb
+C:\Users\Artur\Downloads\WpfApp5\WpfApp5\WpfApp5\WpfApp5\obj\Debug\netcoreapp3.1\WpfApp5.genruntimeconfig.cache
