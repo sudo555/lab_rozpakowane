@@ -1,0 +1,15 @@
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\bin\Debug\netcoreapp3.1\Czcionka.exe
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\bin\Debug\netcoreapp3.1\Czcionka.deps.json
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\bin\Debug\netcoreapp3.1\Czcionka.runtimeconfig.json
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\bin\Debug\netcoreapp3.1\Czcionka.runtimeconfig.dev.json
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\bin\Debug\netcoreapp3.1\Czcionka.dll
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\bin\Debug\netcoreapp3.1\Czcionka.pdb
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\obj\Debug\netcoreapp3.1\Czcionka.csprojAssemblyReference.cache
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\obj\Debug\netcoreapp3.1\Czcionka.Form1.resources
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\obj\Debug\netcoreapp3.1\Czcionka.csproj.GenerateResource.cache
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\obj\Debug\netcoreapp3.1\Czcionka.AssemblyInfoInputs.cache
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\obj\Debug\netcoreapp3.1\Czcionka.AssemblyInfo.cs
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\obj\Debug\netcoreapp3.1\Czcionka.csproj.CoreCompileInputs.cache
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\obj\Debug\netcoreapp3.1\Czcionka.dll
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\obj\Debug\netcoreapp3.1\Czcionka.pdb
+E:\Nowy folder\Visual Studio - programy\Czcionka\Czcionka\obj\Debug\netcoreapp3.1\Czcionka.genruntimeconfig.cache
