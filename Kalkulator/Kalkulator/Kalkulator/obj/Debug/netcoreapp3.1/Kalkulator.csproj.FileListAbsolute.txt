@@ -1,0 +1,15 @@
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csprojAssemblyReference.cache
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.Form1.resources
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.GenerateResource.cache
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.CoreCompileInputs.cache
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb
+E:\Nowy folder\Visual Studio - programy\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.genruntimeconfig.cache

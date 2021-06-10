@@ -1,0 +1,15 @@
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\bin\Debug\netcoreapp3.1\Matematyka.exe
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\bin\Debug\netcoreapp3.1\Matematyka.deps.json
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\bin\Debug\netcoreapp3.1\Matematyka.runtimeconfig.json
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\bin\Debug\netcoreapp3.1\Matematyka.runtimeconfig.dev.json
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\bin\Debug\netcoreapp3.1\Matematyka.dll
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\bin\Debug\netcoreapp3.1\Matematyka.pdb
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\obj\Debug\netcoreapp3.1\Matematyka.csprojAssemblyReference.cache
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\obj\Debug\netcoreapp3.1\Matematyka.Form1.resources
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\obj\Debug\netcoreapp3.1\Matematyka.csproj.GenerateResource.cache
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\obj\Debug\netcoreapp3.1\Matematyka.AssemblyInfoInputs.cache
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\obj\Debug\netcoreapp3.1\Matematyka.AssemblyInfo.cs
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\obj\Debug\netcoreapp3.1\Matematyka.csproj.CoreCompileInputs.cache
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\obj\Debug\netcoreapp3.1\Matematyka.dll
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\obj\Debug\netcoreapp3.1\Matematyka.pdb
+E:\Nowy folder\Visual Studio - programy\Matematyka\Matematyka\obj\Debug\netcoreapp3.1\Matematyka.genruntimeconfig.cache
